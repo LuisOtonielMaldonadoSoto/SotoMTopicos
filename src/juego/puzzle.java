@@ -20,6 +20,7 @@ import java.sql.Ref;
 import java.awt.Color;
 
 
+
 public class puzzle extends JFrame {
 
 	private JPanel contentPane;
@@ -242,7 +243,7 @@ public class puzzle extends JFrame {
 				}
 				if(btnButton1.getText().equals("1") && btnButton2.getText().equals("2") && btnButton3.getText().equals("3") && btnButton4.getText().equals("4") && btnButton5.getText().equals("5") && btnButton6.getText().equals("6") && btnButton7.getText().equals("7") && btnButton8.getText().equals("8") && btnButton9.getText().equals("9") && btnButton10.getText().equals("10") && btnButton11.getText().equals("11") && btnButton12.getText().equals("12") && btnButton13.getText().equals("13") && btnButton14.getText().equals("14") && btnButton15.getText().equals("15") && btnButton16.getText().equals("16") && btnButton17.getText().equals("17") && btnButton18.getText().equals("18") && btnButton19.getText().equals("19") && btnButton20.getText().equals("20") && btnButton21.getText().equals("21") && btnButton22.getText().equals("22") && btnButton23.getText().equals("23") && btnButton24.getText().equals("24"))
 				{
-					JOptionPane.showMessageDialog(null, "Ganador " + btnButton1.getText(),"Haz ganado", JOptionPane.INFORMATION_MESSAGE);
+					JOptionPane.showMessageDialog(null, "GANASTEEEEEEEEEEEEE WUUUUUUUUUUU " + btnButton1.getText(),"Felicidades", JOptionPane.INFORMATION_MESSAGE);
 				}
 			}
 			});
@@ -271,7 +272,7 @@ public class puzzle extends JFrame {
 				}
 				if(btnButton1.getText().equals("1") && btnButton2.getText().equals("2") && btnButton3.getText().equals("3") && btnButton4.getText().equals("4") && btnButton5.getText().equals("5") && btnButton6.getText().equals("6") && btnButton7.getText().equals("7") && btnButton8.getText().equals("8") && btnButton9.getText().equals("9") && btnButton10.getText().equals("10") && btnButton11.getText().equals("11") && btnButton12.getText().equals("12") && btnButton13.getText().equals("13") && btnButton14.getText().equals("14") && btnButton15.getText().equals("15") && btnButton16.getText().equals("16") && btnButton17.getText().equals("17") && btnButton18.getText().equals("18") && btnButton19.getText().equals("19") && btnButton20.getText().equals("20") && btnButton21.getText().equals("21") && btnButton22.getText().equals("22") && btnButton23.getText().equals("23") && btnButton24.getText().equals("24"))
 				{
-					JOptionPane.showMessageDialog(null, "Ganador " + btnButton1.getText(),"Haz ganado", JOptionPane.INFORMATION_MESSAGE);
+					JOptionPane.showMessageDialog(null, "GANASTEEEEEEEEEEEEE WUUUUUUUUUUU " + btnButton1.getText(),"Felicidades", JOptionPane.INFORMATION_MESSAGE);
 				}
 			}
 			});
@@ -300,7 +301,7 @@ public class puzzle extends JFrame {
 				}
 				if(btnButton1.getText().equals("1") && btnButton2.getText().equals("2") && btnButton3.getText().equals("3") && btnButton4.getText().equals("4") && btnButton5.getText().equals("5") && btnButton6.getText().equals("6") && btnButton7.getText().equals("7") && btnButton8.getText().equals("8") && btnButton9.getText().equals("9") && btnButton10.getText().equals("10") && btnButton11.getText().equals("11") && btnButton12.getText().equals("12") && btnButton13.getText().equals("13") && btnButton14.getText().equals("14") && btnButton15.getText().equals("15") && btnButton16.getText().equals("16") && btnButton17.getText().equals("17") && btnButton18.getText().equals("18") && btnButton19.getText().equals("19") && btnButton20.getText().equals("20") && btnButton21.getText().equals("21") && btnButton22.getText().equals("22") && btnButton23.getText().equals("23") && btnButton24.getText().equals("24"))
 				{
-					JOptionPane.showMessageDialog(null, "Ganador " + btnButton1.getText(),"Haz ganado", JOptionPane.INFORMATION_MESSAGE);
+					JOptionPane.showMessageDialog(null, "GANASTEEEEEEEEEEEEE WUUUUUUUUUUU " + btnButton1.getText(),"Felicidades", JOptionPane.INFORMATION_MESSAGE);
 				}
 			}
 			});
@@ -323,7 +324,7 @@ public class puzzle extends JFrame {
 				}
 				if(btnButton1.getText().equals("1") && btnButton2.getText().equals("2") && btnButton3.getText().equals("3") && btnButton4.getText().equals("4") && btnButton5.getText().equals("5") && btnButton6.getText().equals("6") && btnButton7.getText().equals("7") && btnButton8.getText().equals("8") && btnButton9.getText().equals("9") && btnButton10.getText().equals("10") && btnButton11.getText().equals("11") && btnButton12.getText().equals("12") && btnButton13.getText().equals("13") && btnButton14.getText().equals("14") && btnButton15.getText().equals("15") && btnButton16.getText().equals("16") && btnButton17.getText().equals("17") && btnButton18.getText().equals("18") && btnButton19.getText().equals("19") && btnButton20.getText().equals("20") && btnButton21.getText().equals("21") && btnButton22.getText().equals("22") && btnButton23.getText().equals("23") && btnButton24.getText().equals("24"))
 				{
-					JOptionPane.showMessageDialog(null, "Ganador " + btnButton1.getText(),"Haz ganado", JOptionPane.INFORMATION_MESSAGE);
+					JOptionPane.showMessageDialog(null, "GANASTEEEEEEEEEEEEE WUUUUUUUUUUU " + btnButton1.getText(),"Felicidades", JOptionPane.INFORMATION_MESSAGE);
 				}
 			}
 			});
@@ -352,7 +353,7 @@ public class puzzle extends JFrame {
 				}
 				if(btnButton1.getText().equals("1") && btnButton2.getText().equals("2") && btnButton3.getText().equals("3") && btnButton4.getText().equals("4") && btnButton5.getText().equals("5") && btnButton6.getText().equals("6") && btnButton7.getText().equals("7") && btnButton8.getText().equals("8") && btnButton9.getText().equals("9") && btnButton10.getText().equals("10") && btnButton11.getText().equals("11") && btnButton12.getText().equals("12") && btnButton13.getText().equals("13") && btnButton14.getText().equals("14") && btnButton15.getText().equals("15") && btnButton16.getText().equals("16") && btnButton17.getText().equals("17") && btnButton18.getText().equals("18") && btnButton19.getText().equals("19") && btnButton20.getText().equals("20") && btnButton21.getText().equals("21") && btnButton22.getText().equals("22") && btnButton23.getText().equals("23") && btnButton24.getText().equals("24"))
 				{
-					JOptionPane.showMessageDialog(null, "Ganador " + btnButton1.getText(),"Haz ganado", JOptionPane.INFORMATION_MESSAGE);
+					JOptionPane.showMessageDialog(null, "GANASTEEEEEEEEEEEEE WUUUUUUUUUUU " + btnButton1.getText(),"Felicidades", JOptionPane.INFORMATION_MESSAGE);
 				}
 			}
 			});
@@ -387,7 +388,7 @@ public class puzzle extends JFrame {
 				}
 				if(btnButton1.getText().equals("1") && btnButton2.getText().equals("2") && btnButton3.getText().equals("3") && btnButton4.getText().equals("4") && btnButton5.getText().equals("5") && btnButton6.getText().equals("6") && btnButton7.getText().equals("7") && btnButton8.getText().equals("8") && btnButton9.getText().equals("9") && btnButton10.getText().equals("10") && btnButton11.getText().equals("11") && btnButton12.getText().equals("12") && btnButton13.getText().equals("13") && btnButton14.getText().equals("14") && btnButton15.getText().equals("15") && btnButton16.getText().equals("16") && btnButton17.getText().equals("17") && btnButton18.getText().equals("18") && btnButton19.getText().equals("19") && btnButton20.getText().equals("20") && btnButton21.getText().equals("21") && btnButton22.getText().equals("22") && btnButton23.getText().equals("23") && btnButton24.getText().equals("24"))
 				{
-					JOptionPane.showMessageDialog(null, "Ganador " + btnButton1.getText(),"Haz ganado", JOptionPane.INFORMATION_MESSAGE);
+					JOptionPane.showMessageDialog(null, "GANASTEEEEEEEEEEEEE WUUUUUUUUUUU " + btnButton1.getText(),"Felicidades", JOptionPane.INFORMATION_MESSAGE);
 				}
 			}
 			});
@@ -422,7 +423,7 @@ public class puzzle extends JFrame {
 				}
 				if(btnButton1.getText().equals("1") && btnButton2.getText().equals("2") && btnButton3.getText().equals("3") && btnButton4.getText().equals("4") && btnButton5.getText().equals("5") && btnButton6.getText().equals("6") && btnButton7.getText().equals("7") && btnButton8.getText().equals("8") && btnButton9.getText().equals("9") && btnButton10.getText().equals("10") && btnButton11.getText().equals("11") && btnButton12.getText().equals("12") && btnButton13.getText().equals("13") && btnButton14.getText().equals("14") && btnButton15.getText().equals("15") && btnButton16.getText().equals("16") && btnButton17.getText().equals("17") && btnButton18.getText().equals("18") && btnButton19.getText().equals("19") && btnButton20.getText().equals("20") && btnButton21.getText().equals("21") && btnButton22.getText().equals("22") && btnButton23.getText().equals("23") && btnButton24.getText().equals("24"))
 				{
-					JOptionPane.showMessageDialog(null, "Ganador " + btnButton1.getText(),"Haz ganado", JOptionPane.INFORMATION_MESSAGE);
+					JOptionPane.showMessageDialog(null, "GANASTEEEEEEEEEEEEE WUUUUUUUUUUU " + btnButton1.getText(),"Felicidades", JOptionPane.INFORMATION_MESSAGE);
 				}
 				
 			}
@@ -458,7 +459,7 @@ public class puzzle extends JFrame {
 				}
 				if(btnButton1.getText().equals("1") && btnButton2.getText().equals("2") && btnButton3.getText().equals("3") && btnButton4.getText().equals("4") && btnButton5.getText().equals("5") && btnButton6.getText().equals("6") && btnButton7.getText().equals("7") && btnButton8.getText().equals("8") && btnButton9.getText().equals("9") && btnButton10.getText().equals("10") && btnButton11.getText().equals("11") && btnButton12.getText().equals("12") && btnButton13.getText().equals("13") && btnButton14.getText().equals("14") && btnButton15.getText().equals("15") && btnButton16.getText().equals("16") && btnButton17.getText().equals("17") && btnButton18.getText().equals("18") && btnButton19.getText().equals("19") && btnButton20.getText().equals("20") && btnButton21.getText().equals("21") && btnButton22.getText().equals("22") && btnButton23.getText().equals("23") && btnButton24.getText().equals("24"))
 				{
-					JOptionPane.showMessageDialog(null, "Ganador " + btnButton1.getText(),"Haz ganado", JOptionPane.INFORMATION_MESSAGE);
+					JOptionPane.showMessageDialog(null, "GANASTEEEEEEEEEEEEE WUUUUUUUUUUU " + btnButton1.getText(),"Felicidades", JOptionPane.INFORMATION_MESSAGE);
 				}
 			}
 			});
@@ -487,7 +488,7 @@ public class puzzle extends JFrame {
 				}
 				if(btnButton1.getText().equals("1") && btnButton2.getText().equals("2") && btnButton3.getText().equals("3") && btnButton4.getText().equals("4") && btnButton5.getText().equals("5") && btnButton6.getText().equals("6") && btnButton7.getText().equals("7") && btnButton8.getText().equals("8") && btnButton9.getText().equals("9") && btnButton10.getText().equals("10") && btnButton11.getText().equals("11") && btnButton12.getText().equals("12") && btnButton13.getText().equals("13") && btnButton14.getText().equals("14") && btnButton15.getText().equals("15") && btnButton16.getText().equals("16") && btnButton17.getText().equals("17") && btnButton18.getText().equals("18") && btnButton19.getText().equals("19") && btnButton20.getText().equals("20") && btnButton21.getText().equals("21") && btnButton22.getText().equals("22") && btnButton23.getText().equals("23") && btnButton24.getText().equals("24"))
 				{
-					JOptionPane.showMessageDialog(null, "Ganador " + btnButton1.getText(),"Haz ganado", JOptionPane.INFORMATION_MESSAGE);
+					JOptionPane.showMessageDialog(null, "GANASTEEEEEEEEEEEEE WUUUUUUUUUUU " + btnButton1.getText(),"Felicidades", JOptionPane.INFORMATION_MESSAGE);
 				}
 			}
 			});
@@ -516,7 +517,7 @@ public class puzzle extends JFrame {
 				}
 				if(btnButton1.getText().equals("1") && btnButton2.getText().equals("2") && btnButton3.getText().equals("3") && btnButton4.getText().equals("4") && btnButton5.getText().equals("5") && btnButton6.getText().equals("6") && btnButton7.getText().equals("7") && btnButton8.getText().equals("8") && btnButton9.getText().equals("9") && btnButton10.getText().equals("10") && btnButton11.getText().equals("11") && btnButton12.getText().equals("12") && btnButton13.getText().equals("13") && btnButton14.getText().equals("14") && btnButton15.getText().equals("15") && btnButton16.getText().equals("16") && btnButton17.getText().equals("17") && btnButton18.getText().equals("18") && btnButton19.getText().equals("19") && btnButton20.getText().equals("20") && btnButton21.getText().equals("21") && btnButton22.getText().equals("22") && btnButton23.getText().equals("23") && btnButton24.getText().equals("24"))
 				{
-					JOptionPane.showMessageDialog(null, "Ganador " + btnButton1.getText(),"Haz ganado", JOptionPane.INFORMATION_MESSAGE);
+					JOptionPane.showMessageDialog(null, "GANASTEEEEEEEEEEEEE WUUUUUUUUUUU " + btnButton1.getText(),"Felicidades", JOptionPane.INFORMATION_MESSAGE);
 				}
 			}
 			});
@@ -551,7 +552,7 @@ public class puzzle extends JFrame {
 				}
 				if(btnButton1.getText().equals("1") && btnButton2.getText().equals("2") && btnButton3.getText().equals("3") && btnButton4.getText().equals("4") && btnButton5.getText().equals("5") && btnButton6.getText().equals("6") && btnButton7.getText().equals("7") && btnButton8.getText().equals("8") && btnButton9.getText().equals("9") && btnButton10.getText().equals("10") && btnButton11.getText().equals("11") && btnButton12.getText().equals("12") && btnButton13.getText().equals("13") && btnButton14.getText().equals("14") && btnButton15.getText().equals("15") && btnButton16.getText().equals("16") && btnButton17.getText().equals("17") && btnButton18.getText().equals("18") && btnButton19.getText().equals("19") && btnButton20.getText().equals("20") && btnButton21.getText().equals("21") && btnButton22.getText().equals("22") && btnButton23.getText().equals("23") && btnButton24.getText().equals("24"))
 				{
-					JOptionPane.showMessageDialog(null, "Ganador " + btnButton1.getText(),"Haz ganado", JOptionPane.INFORMATION_MESSAGE);
+					JOptionPane.showMessageDialog(null, "GANASTEEEEEEEEEEEEE WUUUUUUUUUUU " + btnButton1.getText(),"Felicidades", JOptionPane.INFORMATION_MESSAGE);
 				}
 			}
 			});
@@ -586,7 +587,7 @@ public class puzzle extends JFrame {
 				}
 				if(btnButton1.getText().equals("1") && btnButton2.getText().equals("2") && btnButton3.getText().equals("3") && btnButton4.getText().equals("4") && btnButton5.getText().equals("5") && btnButton6.getText().equals("6") && btnButton7.getText().equals("7") && btnButton8.getText().equals("8") && btnButton9.getText().equals("9") && btnButton10.getText().equals("10") && btnButton11.getText().equals("11") && btnButton12.getText().equals("12") && btnButton13.getText().equals("13") && btnButton14.getText().equals("14") && btnButton15.getText().equals("15") && btnButton16.getText().equals("16") && btnButton17.getText().equals("17") && btnButton18.getText().equals("18") && btnButton19.getText().equals("19") && btnButton20.getText().equals("20") && btnButton21.getText().equals("21") && btnButton22.getText().equals("22") && btnButton23.getText().equals("23") && btnButton24.getText().equals("24"))
 				{
-					JOptionPane.showMessageDialog(null, "Ganador " + btnButton1.getText(),"Haz ganado", JOptionPane.INFORMATION_MESSAGE);
+					JOptionPane.showMessageDialog(null, "GANASTEEEEEEEEEEEEE WUUUUUUUUUUU " + btnButton1.getText(),"Felicidades", JOptionPane.INFORMATION_MESSAGE);
 				}
 			}
 			});
@@ -621,7 +622,7 @@ public class puzzle extends JFrame {
 				}
 				if(btnButton1.getText().equals("1") && btnButton2.getText().equals("2") && btnButton3.getText().equals("3") && btnButton4.getText().equals("4") && btnButton5.getText().equals("5") && btnButton6.getText().equals("6") && btnButton7.getText().equals("7") && btnButton8.getText().equals("8") && btnButton9.getText().equals("9") && btnButton10.getText().equals("10") && btnButton11.getText().equals("11") && btnButton12.getText().equals("12") && btnButton13.getText().equals("13") && btnButton14.getText().equals("14") && btnButton15.getText().equals("15") && btnButton16.getText().equals("16") && btnButton17.getText().equals("17") && btnButton18.getText().equals("18") && btnButton19.getText().equals("19") && btnButton20.getText().equals("20") && btnButton21.getText().equals("21") && btnButton22.getText().equals("22") && btnButton23.getText().equals("23") && btnButton24.getText().equals("24"))
 				{
-					JOptionPane.showMessageDialog(null, "Ganador" + btnButton1.getText(),"Haz ganado", JOptionPane.INFORMATION_MESSAGE);
+					JOptionPane.showMessageDialog(null, "GANASTEEEEEEEEEEEEE WUUUUUUUUUUU " + btnButton1.getText(),"Felicidades", JOptionPane.INFORMATION_MESSAGE);
 				}
 			}
 			});
@@ -650,7 +651,7 @@ public class puzzle extends JFrame {
 				}
 				if(btnButton1.getText().equals("1") && btnButton2.getText().equals("2") && btnButton3.getText().equals("3") && btnButton4.getText().equals("4") && btnButton5.getText().equals("5") && btnButton6.getText().equals("6") && btnButton7.getText().equals("7") && btnButton8.getText().equals("8") && btnButton9.getText().equals("9") && btnButton10.getText().equals("10") && btnButton11.getText().equals("11") && btnButton12.getText().equals("12") && btnButton13.getText().equals("13") && btnButton14.getText().equals("14") && btnButton15.getText().equals("15") && btnButton16.getText().equals("16") && btnButton17.getText().equals("17") && btnButton18.getText().equals("18") && btnButton19.getText().equals("19") && btnButton20.getText().equals("20") && btnButton21.getText().equals("21") && btnButton22.getText().equals("22") && btnButton23.getText().equals("23") && btnButton24.getText().equals("24"))
 				{
-					JOptionPane.showMessageDialog(null, "Ganador " + btnButton1.getText(),"Haz ganado", JOptionPane.INFORMATION_MESSAGE);
+					JOptionPane.showMessageDialog(null, "GANASTEEEEEEEEEEEEE WUUUUUUUUUUU " + btnButton1.getText(),"Felicidades", JOptionPane.INFORMATION_MESSAGE);
 				}
 			}
 			});
@@ -679,7 +680,7 @@ public class puzzle extends JFrame {
 				}
 				if(btnButton1.getText().equals("1") && btnButton2.getText().equals("2") && btnButton3.getText().equals("3") && btnButton4.getText().equals("4") && btnButton5.getText().equals("5") && btnButton6.getText().equals("6") && btnButton7.getText().equals("7") && btnButton8.getText().equals("8") && btnButton9.getText().equals("9") && btnButton10.getText().equals("10") && btnButton11.getText().equals("11") && btnButton12.getText().equals("12") && btnButton13.getText().equals("13") && btnButton14.getText().equals("14") && btnButton15.getText().equals("15") && btnButton16.getText().equals("16") && btnButton17.getText().equals("17") && btnButton18.getText().equals("18") && btnButton19.getText().equals("19") && btnButton20.getText().equals("20") && btnButton21.getText().equals("21") && btnButton22.getText().equals("22") && btnButton23.getText().equals("23") && btnButton24.getText().equals("24"))
 				{
-					JOptionPane.showMessageDialog(null, "Ganador " + btnButton1.getText(),"Haz ganado", JOptionPane.INFORMATION_MESSAGE);
+					JOptionPane.showMessageDialog(null, "GANASTEEEEEEEEEEEEE WUUUUUUUUUUU " + btnButton1.getText(),"Felicidades", JOptionPane.INFORMATION_MESSAGE);
 				}
 			}
 			});
@@ -714,7 +715,7 @@ public class puzzle extends JFrame {
 				}
 				if(btnButton1.getText().equals("1") && btnButton2.getText().equals("2") && btnButton3.getText().equals("3") && btnButton4.getText().equals("4") && btnButton5.getText().equals("5") && btnButton6.getText().equals("6") && btnButton7.getText().equals("7") && btnButton8.getText().equals("8") && btnButton9.getText().equals("9") && btnButton10.getText().equals("10") && btnButton11.getText().equals("11") && btnButton12.getText().equals("12") && btnButton13.getText().equals("13") && btnButton14.getText().equals("14") && btnButton15.getText().equals("15") && btnButton16.getText().equals("16") && btnButton17.getText().equals("17") && btnButton18.getText().equals("18") && btnButton19.getText().equals("19") && btnButton20.getText().equals("20") && btnButton21.getText().equals("21") && btnButton22.getText().equals("22") && btnButton23.getText().equals("23") && btnButton24.getText().equals("24"))
 				{
-					JOptionPane.showMessageDialog(null, "Ganador " + btnButton1.getText(),"Haz ganado", JOptionPane.INFORMATION_MESSAGE);
+					JOptionPane.showMessageDialog(null, "GANASTEEEEEEEEEEEEE WUUUUUUUUUUU " + btnButton1.getText(),"Felicidades", JOptionPane.INFORMATION_MESSAGE);
 				}
 			}
 			});
@@ -749,7 +750,7 @@ public class puzzle extends JFrame {
 				}
 				if(btnButton1.getText().equals("1") && btnButton2.getText().equals("2") && btnButton3.getText().equals("3") && btnButton4.getText().equals("4") && btnButton5.getText().equals("5") && btnButton6.getText().equals("6") && btnButton7.getText().equals("7") && btnButton8.getText().equals("8") && btnButton9.getText().equals("9") && btnButton10.getText().equals("10") && btnButton11.getText().equals("11") && btnButton12.getText().equals("12") && btnButton13.getText().equals("13") && btnButton14.getText().equals("14") && btnButton15.getText().equals("15") && btnButton16.getText().equals("16") && btnButton17.getText().equals("17") && btnButton18.getText().equals("18") && btnButton19.getText().equals("19") && btnButton20.getText().equals("20") && btnButton21.getText().equals("21") && btnButton22.getText().equals("22") && btnButton23.getText().equals("23") && btnButton24.getText().equals("24"))
 				{
-					JOptionPane.showMessageDialog(null, "Ganador " + btnButton1.getText(),"Haz ganado", JOptionPane.INFORMATION_MESSAGE);
+					JOptionPane.showMessageDialog(null, "GANASTEEEEEEEEEEEEE WUUUUUUUUUUU " + btnButton1.getText(),"Felicidades", JOptionPane.INFORMATION_MESSAGE);
 				}
 			}
 			});
@@ -784,7 +785,7 @@ public class puzzle extends JFrame {
 				}
 				if(btnButton1.getText().equals("1") && btnButton2.getText().equals("2") && btnButton3.getText().equals("3") && btnButton4.getText().equals("4") && btnButton5.getText().equals("5") && btnButton6.getText().equals("6") && btnButton7.getText().equals("7") && btnButton8.getText().equals("8") && btnButton9.getText().equals("9") && btnButton10.getText().equals("10") && btnButton11.getText().equals("11") && btnButton12.getText().equals("12") && btnButton13.getText().equals("13") && btnButton14.getText().equals("14") && btnButton15.getText().equals("15") && btnButton16.getText().equals("16") && btnButton17.getText().equals("17") && btnButton18.getText().equals("18") && btnButton19.getText().equals("19") && btnButton20.getText().equals("20") && btnButton21.getText().equals("21") && btnButton22.getText().equals("22") && btnButton23.getText().equals("23") && btnButton24.getText().equals("24"))
 				{
-					JOptionPane.showMessageDialog(null, "Ganador " + btnButton1.getText(),"Haz ganado", JOptionPane.INFORMATION_MESSAGE);
+					JOptionPane.showMessageDialog(null, "GANASTEEEEEEEEEEEEE WUUUUUUUUUUU " + btnButton1.getText(),"Felicidades", JOptionPane.INFORMATION_MESSAGE);
 				}
 			}
 			});
@@ -813,7 +814,7 @@ public class puzzle extends JFrame {
 				}
 				if(btnButton1.getText().equals("1") && btnButton2.getText().equals("2") && btnButton3.getText().equals("3") && btnButton4.getText().equals("4") && btnButton5.getText().equals("5") && btnButton6.getText().equals("6") && btnButton7.getText().equals("7") && btnButton8.getText().equals("8") && btnButton9.getText().equals("9") && btnButton10.getText().equals("10") && btnButton11.getText().equals("11") && btnButton12.getText().equals("12") && btnButton13.getText().equals("13") && btnButton14.getText().equals("14") && btnButton15.getText().equals("15") && btnButton16.getText().equals("16") && btnButton17.getText().equals("17") && btnButton18.getText().equals("18") && btnButton19.getText().equals("19") && btnButton20.getText().equals("20") && btnButton21.getText().equals("21") && btnButton22.getText().equals("22") && btnButton23.getText().equals("23") && btnButton24.getText().equals("24"))
 				{
-					JOptionPane.showMessageDialog(null, "Ganador " + btnButton1.getText(),"Haz ganado", JOptionPane.INFORMATION_MESSAGE);
+					JOptionPane.showMessageDialog(null, "GANASTEEEEEEEEEEEEE WUUUUUUUUUUU " + btnButton1.getText(),"Felicidades", JOptionPane.INFORMATION_MESSAGE);
 				}
 			}
 			});
@@ -836,7 +837,7 @@ public class puzzle extends JFrame {
 				}
 				if(btnButton1.getText().equals("1") && btnButton2.getText().equals("2") && btnButton3.getText().equals("3") && btnButton4.getText().equals("4") && btnButton5.getText().equals("5") && btnButton6.getText().equals("6") && btnButton7.getText().equals("7") && btnButton8.getText().equals("8") && btnButton9.getText().equals("9") && btnButton10.getText().equals("10") && btnButton11.getText().equals("11") && btnButton12.getText().equals("12") && btnButton13.getText().equals("13") && btnButton14.getText().equals("14") && btnButton15.getText().equals("15") && btnButton16.getText().equals("16") && btnButton17.getText().equals("17") && btnButton18.getText().equals("18") && btnButton19.getText().equals("19") && btnButton20.getText().equals("20") && btnButton21.getText().equals("21") && btnButton22.getText().equals("22") && btnButton23.getText().equals("23") && btnButton24.getText().equals("24"))
 				{
-					JOptionPane.showMessageDialog(null, "Ganador " + btnButton1.getText(),"Haz ganado", JOptionPane.INFORMATION_MESSAGE);
+					JOptionPane.showMessageDialog(null, "GANASTEEEEEEEEEEEEE WUUUUUUUUUUU " + btnButton1.getText(),"Felicidades", JOptionPane.INFORMATION_MESSAGE);
 				}
 			}
 			});
@@ -865,7 +866,7 @@ public class puzzle extends JFrame {
 				}
 				if(btnButton1.getText().equals("1") && btnButton2.getText().equals("2") && btnButton3.getText().equals("3") && btnButton4.getText().equals("4") && btnButton5.getText().equals("5") && btnButton6.getText().equals("6") && btnButton7.getText().equals("7") && btnButton8.getText().equals("8") && btnButton9.getText().equals("9") && btnButton10.getText().equals("10") && btnButton11.getText().equals("11") && btnButton12.getText().equals("12") && btnButton13.getText().equals("13") && btnButton14.getText().equals("14") && btnButton15.getText().equals("15") && btnButton16.getText().equals("16") && btnButton17.getText().equals("17") && btnButton18.getText().equals("18") && btnButton19.getText().equals("19") && btnButton20.getText().equals("20") && btnButton21.getText().equals("21") && btnButton22.getText().equals("22") && btnButton23.getText().equals("23") && btnButton24.getText().equals("24"))
 				{
-					JOptionPane.showMessageDialog(null, "Ganador " + btnButton1.getText(),"Haz ganado", JOptionPane.INFORMATION_MESSAGE);
+					JOptionPane.showMessageDialog(null, "GANASTEEEEEEEEEEEEE WUUUUUUUUUUU " + btnButton1.getText(),"Felicidades", JOptionPane.INFORMATION_MESSAGE);
 				}
 			}
 			});
@@ -894,7 +895,7 @@ public class puzzle extends JFrame {
 				}
 				if(btnButton1.getText().equals("1") && btnButton2.getText().equals("2") && btnButton3.getText().equals("3") && btnButton4.getText().equals("4") && btnButton5.getText().equals("5") && btnButton6.getText().equals("6") && btnButton7.getText().equals("7") && btnButton8.getText().equals("8") && btnButton9.getText().equals("9") && btnButton10.getText().equals("10") && btnButton11.getText().equals("11") && btnButton12.getText().equals("12") && btnButton13.getText().equals("13") && btnButton14.getText().equals("14") && btnButton15.getText().equals("15") && btnButton16.getText().equals("16") && btnButton17.getText().equals("17") && btnButton18.getText().equals("18") && btnButton19.getText().equals("19") && btnButton20.getText().equals("20") && btnButton21.getText().equals("21") && btnButton22.getText().equals("22") && btnButton23.getText().equals("23") && btnButton24.getText().equals("24"))
 				{
-					JOptionPane.showMessageDialog(null, "Ganador " + btnButton1.getText(),"Haz ganado", JOptionPane.INFORMATION_MESSAGE);
+					JOptionPane.showMessageDialog(null, "GANASTEEEEEEEEEEEEE WUUUUUUUUUUU " + btnButton1.getText(),"Felicidades", JOptionPane.INFORMATION_MESSAGE);
 				}
 			}
 			});
@@ -923,7 +924,7 @@ public class puzzle extends JFrame {
 				}
 				if(btnButton1.getText().equals("1") && btnButton2.getText().equals("2") && btnButton3.getText().equals("3") && btnButton4.getText().equals("4") && btnButton5.getText().equals("5") && btnButton6.getText().equals("6") && btnButton7.getText().equals("7") && btnButton8.getText().equals("8") && btnButton9.getText().equals("9") && btnButton10.getText().equals("10") && btnButton11.getText().equals("11") && btnButton12.getText().equals("12") && btnButton13.getText().equals("13") && btnButton14.getText().equals("14") && btnButton15.getText().equals("15") && btnButton16.getText().equals("16") && btnButton17.getText().equals("17") && btnButton18.getText().equals("18") && btnButton19.getText().equals("19") && btnButton20.getText().equals("20") && btnButton21.getText().equals("21") && btnButton22.getText().equals("22") && btnButton23.getText().equals("23") && btnButton24.getText().equals("24"))
 				{
-					JOptionPane.showMessageDialog(null, "Ganador" + btnButton1.getText(),"Haz ganado", JOptionPane.INFORMATION_MESSAGE);
+					JOptionPane.showMessageDialog(null, "GANASTEEEEEEEEEEEEE WUUUUUUUUUUUU " + btnButton1.getText(),"Felicidades", JOptionPane.INFORMATION_MESSAGE);
 				}
 			}
 			});
@@ -946,7 +947,7 @@ public class puzzle extends JFrame {
 				}
 				if(btnButton1.getText().equals("1") && btnButton2.getText().equals("2") && btnButton3.getText().equals("3") && btnButton4.getText().equals("4") && btnButton5.getText().equals("5") && btnButton6.getText().equals("6") && btnButton7.getText().equals("7") && btnButton8.getText().equals("8") && btnButton9.getText().equals("9") && btnButton10.getText().equals("10") && btnButton11.getText().equals("11") && btnButton12.getText().equals("12") && btnButton13.getText().equals("13") && btnButton14.getText().equals("14") && btnButton15.getText().equals("15") && btnButton16.getText().equals("16") && btnButton17.getText().equals("17") && btnButton18.getText().equals("18") && btnButton19.getText().equals("19") && btnButton20.getText().equals("20") && btnButton21.getText().equals("21") && btnButton22.getText().equals("22") && btnButton23.getText().equals("23") && btnButton24.getText().equals("24"))
 				{
-					JOptionPane.showMessageDialog(null, "Ganador" + btnButton1.getText(),"Haz ganado", JOptionPane.INFORMATION_MESSAGE);
+					JOptionPane.showMessageDialog(null, "GANASTEEEEEEEEEEEEE WUUUUUUUUUUUUUUUU" + btnButton1.getText(),"Felicidades", JOptionPane.INFORMATION_MESSAGE);
 				}
 			}
 			});
